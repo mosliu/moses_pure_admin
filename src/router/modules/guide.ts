@@ -7,7 +7,7 @@ const guideRouter: RouteConfigsTable = {
   meta: {
     icon: "guide",
     title: $t("menus.hsguide"),
-    rank: 14
+    rank: 140
   },
   children: [
     {

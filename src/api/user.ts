@@ -29,8 +29,12 @@ export type RefreshTokenResult = {
 };
 
 /** 登录 */
+// export const getLogin = (data?: object) => {
+//   return http.request<UserResult>("post", "/login", { data });
+// };
+import { baseUrlApi } from "./utils";
 export const getLogin = (data?: object) => {
-  return http.request<UserResult>("post", "/login", { data });
+  return http.request<any>("post", baseUrlApi("login"), { data });
 };
 
 /** 刷新token */

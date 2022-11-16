@@ -161,6 +161,11 @@ addIcon("unExpand", UnExpand);
 import LocationCompany from "@iconify-icons/carbon/location-company";
 addIcon("location-company", LocationCompany);
 
+import RestApi from "@iconify-icons/dashicons/rest-api";
+import FormatChat from "@iconify-icons/dashicons/format-chat";
+addIcon("rest-api", RestApi);
+addIcon("format-chat", FormatChat);
+
 // Iconify Icon在Vue里本地使用（用于内网环境）https://docs.iconify.design/icon-components/vue/offline.html
 export default defineComponent({
   name: "IconifyIconOffline",

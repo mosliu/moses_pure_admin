@@ -7,7 +7,7 @@ const pptRouter: RouteConfigsTable = {
   meta: {
     icon: "ppt",
     title: "PPT",
-    rank: 3
+    rank: 30
   },
   children: [
     {

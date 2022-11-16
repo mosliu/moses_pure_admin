@@ -7,7 +7,7 @@ const ableRouter: RouteConfigsTable = {
   meta: {
     icon: "list-check",
     title: $t("menus.hsList"),
-    rank: 12
+    rank: 120
   },
   children: [
     {

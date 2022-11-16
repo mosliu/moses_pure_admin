@@ -7,7 +7,7 @@ const resultRouter: RouteConfigsTable = {
   meta: {
     icon: "checkbox-circle-line",
     title: $t("menus.hsResult"),
-    rank: 8
+    rank: 80
   },
   children: [
     {

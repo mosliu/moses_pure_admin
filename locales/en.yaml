@@ -95,6 +95,8 @@ menus:
   hsExecl: Export Excel
   hsInfiniteScroll: Table Infinite Scroll
   hsdanmaku: Danmaku Components
+  apiTest: Api test
+  speech: Speech Extraction
 status:
   hsLoad: Loading...
 login:

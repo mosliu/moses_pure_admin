@@ -12,7 +12,7 @@ const systemRouter = {
   meta: {
     icon: "setting",
     title: "menus.hssysManagement",
-    rank: 11
+    rank: 110
   },
   children: [
     {
@@ -61,7 +61,7 @@ const permissionRouter = {
   meta: {
     title: "menus.permission",
     icon: "lollipop",
-    rank: 10
+    rank: 100
   },
   children: [
     {
@@ -89,7 +89,7 @@ const frameRouter = {
   meta: {
     icon: "monitor",
     title: "menus.hsExternalPage",
-    rank: 7
+    rank: 70
   },
   children: [
     {
@@ -126,7 +126,7 @@ const tabsRouter = {
   meta: {
     icon: "IF-team-icontabs",
     title: "menus.hstabs",
-    rank: 13
+    rank: 130
   },
   children: [
     {

@@ -7,7 +7,7 @@ const componentsRouter: RouteConfigsTable = {
   meta: {
     icon: "menu",
     title: $t("menus.hscomponents"),
-    rank: 5
+    rank: 50
   },
   children: [
     {

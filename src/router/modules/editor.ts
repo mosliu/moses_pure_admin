@@ -7,7 +7,7 @@ const editorRouter: RouteConfigsTable = {
   meta: {
     icon: "edit",
     title: $t("menus.hseditor"),
-    rank: 2
+    rank: 20
   },
   children: [
     {

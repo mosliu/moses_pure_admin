@@ -95,6 +95,8 @@ menus:
   hsExecl: 导出Excel
   hsInfiniteScroll: 表格无限滚动
   hsdanmaku: 弹幕组件
+  apiTest: Api测试
+  speech: 言论抽取
 status:
   hsLoad: 加载中...
 login:

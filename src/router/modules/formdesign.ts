@@ -8,7 +8,7 @@ const formDesignRouter: RouteConfigsTable = {
   meta: {
     icon: "terminal-window-line",
     title: $t("menus.hsFormDesign"),
-    rank: 2
+    rank: 20
   },
   children: [
     {

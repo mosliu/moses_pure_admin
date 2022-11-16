@@ -10,7 +10,7 @@ const remainingRouter: Array<RouteConfigsTable> = [
     meta: {
       title: $t("menus.hslogin"),
       showLink: false,
-      rank: 101
+      rank: 1010
     }
   },
   {

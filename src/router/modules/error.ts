@@ -7,7 +7,7 @@ const errorRouter: RouteConfigsTable = {
   meta: {
     icon: "information-line",
     title: $t("menus.hsabnormal"),
-    rank: 9
+    rank: 90
   },
   children: [
     {
